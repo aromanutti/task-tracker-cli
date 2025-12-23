@@ -1,0 +1,19 @@
+{
+  "name": "task-tracker-cli",
+  "version": "1.0.0",
+  "description": "Task tracker CLI made with Node.js",
+  "main": "index.js",
+  "scripts": {
+    "test": "npm run dev"
+  },
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/aromanutti/task-tracker-cli"
+  },
+  "keywords": [
+    "task",
+    "tracker"
+  ],
+  "author": "Andres Romanutti",
+  "license": "ISC"
+}
